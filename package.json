@@ -1,0 +1,23 @@
+{
+  "name": "folkvet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node index.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magnedavidsen/folkvet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magnedavidsen/folkvet/issues"
+  },
+  "homepage": "https://github.com/magnedavidsen/folkvet#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
